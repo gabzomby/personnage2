@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kain Ardel - Inventaire</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Inventaire</h1>
+</header>
+<nav>
+    <a href="index.html">Accueil</a>
+    <a href="identite.html">Identité</a>
+    <a href="histoire.html">Histoire</a>
+    <a href="competences.html">Compétences</a>
+    <a href="relations.html">Relations</a>
+</nav>
+<section>
+    <img src="image4.png" alt="Inventaire Image" style="width:300px; height:auto; margin-bottom:20px;">
+    <h2>Objets Possédés</h2>
+    <ul>
+        <li><strong>Revolver des Ombres :</strong> Arme principale, capable d’infliger des dégâts physiques et psychologiques.</li>
+        <li><strong>Katana de l’Éclipse :</strong> Lame fine et légère avec la capacité "Lame Silencieuse".</li>
+        <li><strong>Cigare Maudit :</strong> Objet symbolique, utilisé pour maintenir son aura menaçante.</li>
+        <li><strong>Amulette de l’âme :</strong> Protège contre les attaques mentales et magiques.</li>
+    </ul>
+</section>
+</body>
+</html>
